@@ -8,4 +8,4 @@ but it is indeed a complex process. The channel is supposedly the necessary evil
 There are a lot of strategies developed to deal with the negative effects of channel imposed on the main signal and these 
 are the ways which help us gain the original signal back so that an effective communication link can be established.
 
-This repository has only few basic versions of the algorithms and their related code.
+This repository has only few basic versions of the algorithms and their related code. All code is in MATLAB.
